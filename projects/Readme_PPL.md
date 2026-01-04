@@ -2,13 +2,13 @@
 
 ## Technologies that I use
 
-gg sheet
-SQL
-R
-Python
-Essential Statistics
-Essential Machine Learning
-Learning how to learn
+- gg sheet
+- SQL
+- R
+- Python
+- Essential Statistics
+- Essential Machine Learning
+- Learning how to learn
 
 ## My website
 Website : xxx
