@@ -12,8 +12,8 @@
 
 ## My website
 Website : xxx
-Notion : yyy
-Github : zzz
+Notion : https://www.notion.so/Book-267adb09811380fe9157ed39c7b6622a
+Github : https://github.com/um2nasa/data-bootcamp12/blob/main/projects/Readme_PPL.md
 
 ## Contact me
 Email : um_nas@yahoo.com
